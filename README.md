@@ -7,8 +7,8 @@
 
 These files were created by me and graciously accepted for redistribution by Glorious PC Gaming.
 
-For rendering the board with Blender the FBX file works best since it already contains the correct material groups.  
-A STEP file is included as well for easier converting to other mesh model formats.
+For rendering the board with Blender FBX format works best since it already contains different material groups.  
+A STEP file is included as well for easier conversion to other mesh model formats.
 
 Keycaps and/or switches are NOT included in this model!
 
