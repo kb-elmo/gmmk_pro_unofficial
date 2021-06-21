@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/Kv4qXFP.png" alt="render" width="800"/>
 
-These files were created by me and graciously accepted for redistribution by Glorious PC Gaming.
+These files were created by me and were graciously accepted for redistribution by Glorious PC Gaming.
 
 For rendering the board with Blender FBX format works best since it already contains different material groups.  
 A STEP file is included as well for easier conversion to other mesh model formats.
