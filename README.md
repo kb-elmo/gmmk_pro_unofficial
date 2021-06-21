@@ -1,8 +1,7 @@
 # GMMK Pro unofficial renderfiles
+### Authorized for redistribution by Glorious PC Gaming
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![Open Source Love][os-love]](https://opensource.com/resources/what-open-hardware)
-
-### Show your keycap set on the GMMK Pro
 
 <img src="https://i.imgur.com/Kv4qXFP.png" alt="render" width="800"/>
 
