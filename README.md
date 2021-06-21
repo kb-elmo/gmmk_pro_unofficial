@@ -13,7 +13,7 @@ A STEP file is included as well for easier conversion to other mesh model format
 Keycaps and/or switches are NOT included in this model!
 
 The files you find in this repository are only meant for rendering and showcase purposes!  
-They only contain the outside shell of this keyboard and do not reveal any kind of internal structure and are in no way suitable for manufacturing a "clone" unit.
+They only contain the outside shell of this keyboard and do not reveal any kind of internal structure of the design created by Glorious PC Gaming and are in no way suitable for manufacturing a "clone" unit.
 
 ---
 
