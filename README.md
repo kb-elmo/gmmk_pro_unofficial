@@ -2,6 +2,7 @@
 ### Authorized for redistribution by Glorious PC Gaming
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+<a href="https://ko-fi.com/kb_elmo"><img src="https://i.imgur.com/9T0bvqO.png" alt="kofibadge" align="right"/></a>
 
 <img src="https://i.imgur.com/Kv4qXFP.png" alt="render" width="800"/>
 
